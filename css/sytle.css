@@ -1,0 +1,24 @@
+header h1{
+    text-align: center;
+    color: red;
+}
+
+nav{
+    text-align: center;
+    color: blue;
+}
+
+ section article{
+    text-align: center;
+ }
+
+ li{
+    list-style-position: inside;
+ }
+ .p{
+    text-align: left;
+ }
+ .h3{
+    color: gold;
+    
+ }
